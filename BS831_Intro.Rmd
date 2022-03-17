@@ -72,9 +72,10 @@ devtools::install_github("montilab/hypeR")
      BiocManager::install(c("GEOquery","Biobase","biomaRt","ROC","ConsensusClusterPlus","ASSIGN",
                             "limma","DESeq2","edgeR","GSVA","RNASeqPower","pdInfoBuilder","ComplexHeatmap"))
 ```
-
+#installing files from montilab/BS831 git
 ```{r}
 devtools::install_github("montilab/BS831")
 ```
+#Error-- failed. Broken link? 404 error message when typing into browser
 
 
